@@ -1,11 +1,13 @@
 runen
 =====
 
-:author:    Lukas Prokop
-:date:      Oct 2014 to Jan 2015
-:license:   Public Domain
+<dl>
+  <dt>author</dt>  <dd>Lukas Prokop</dd>
+  <dt>date</dt>    <dd>Oct 2014 to Jan 2015</dd>
+  <dt>license</dt> <dd>Public Domain</dd>
+</dl>
 
-Referat und Präsentation der Runen-Schrift (sowie Schriften germanischer Völker).
+Referat und Präsentation über Schriften germanischer Völker (Runenschrift, Gotische Schrift).
 
 Literature
 ----------
