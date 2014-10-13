@@ -1,19 +1,35 @@
 \documentclass[a4paper]{article}
-\usepackage[german,english]{babel}
+\usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{wasysym}
+\usepackage{baskervald}
 \usepackage[pdfborder={0 0 0}]{hyperref}
+
+\makeatletter
+\hypersetup{
+  pdftitle={\@title},
+  pdfauthor={\@author},
+  pdfsubject={Germanic Writing Systems},
+  pdfcreator={\LaTeX},
+  pdfkeywords={Germanic, writing systems, Runic, alphabet, Runic drawings, gothic writing},
+  pdfview=FitV,
+  pdflang={en-US},
+  unicode,
+  breaklinks,
+  bookmarks
+}
+\makeatother
 
 \author{Lukas Prokop, *}
 \title{Germanic Writing Systems}
 \date{Jan 2015}
 
 \begin{document}
-
+\maketitle
 \tableofcontents
 
 \section{Runic writing system}
