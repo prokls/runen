@@ -1,0 +1,33 @@
+See http://www.unicode.org/charts/
+
+[missing]         | 04. Nov 2014 |             | Vinča symbols
+[U+12000-123FF]   | 11. Nov 2014 | Unicode 5.0 | Cuneiform [Keilschrift]
+[missing]         | 18. Nov 2014 |             | Hieroglyphs of Ankhi people, Dongba and geba
+[U+13000–1342F]   | 18. Nov 2014 | Unicode 5.2 | Egyptian Hieroglyphs
+[missing]         | 18. Nov 2014 |             | Anatolian Hieroglyphs
+[U+0900–097F]     | 25. Nov 2014 | Unicode 1.0 | Devaganari
+[U+A8E0–A8FF]     | 25. Nov 2014 | Unicode 1.0 | Devaganari Extended
+[U+1CD0–1CFF]     | 25. Nov 2014 | Unicode 5.2 | Vedic Extensions
+[U+10A00–10A5F]   | 25. Nov 2014 | Unicode 4.1 | Supplementary Multilingual Plane, Kharoṣṭhī
+[U+11000–1107F]   | 25. Nov 2014 | Unicode 6.0 | Supplementary Multilingual Plane, Brāhmī
+[U+3040–309F]     | 02. Dec 2014 | Unicode 1.0 | Hiragana
+[U+30A0–30FF]     | 02. Dec 2014 | Unicode 1.0 | Katakana
+[U+4E00–9FCF]     | 02. Dec 2014 | Unicode 1.0 | CJK Unified Ideographs [Kanji, Han Unified]
+[U+3400–4DBF]     | 02. Dec 2014 | Unicode 3.0 | CJK Unified Ideographs Extension A
+[U+20000–2A6DF]   | 02. Dec 2014 | Unicode 3.1 | CJK Unified Ideographs Extension B
+[U+2A700–2B73F]   | 02. Dec 2014 | Unicode 5.2 | CJK Unified Ideographs Extension C
+[U+2B740–2B81F]   | 02. Dec 2014 | Unicode 6.0 | CJK Unified Ideographs Extension D
+[U+10600–1077F]   | 09. Dec 2014 | Unicode 7.0 | Linear A
+[U+10000–1007F]   | 09. Dec 2014 | Unicode 4.0 | Linear B Syllabary
+[U+10080–100FF]   | 09. Dec 2014 | Unicode 4.0 | Linear B Ideograms
+[U+10100–1013F]   | 09. Dec 2014 | Unicode 4.0 | Aegean Numbers
+[U+0370–03FF]     | 16. Dec 2014 | Unicode 1.0 | Greek and Coptic
+[U+1F00–1FFF]     | 16. Dec 2014 | Unicode 1.1 | Greek Extended
+[U+2C80–2CFF]     | 16. Dec 2014 | Unicode 4.1 | Coptic
+[U+10900–1091F]   | 16. Dec 2014 | Unicode 5.0 | Phoenician
+[missing]         | 13. Jan 2015 |             | Etruscan writing system
+[U+0000–007F]     | 13. Jan 2015 | Unicode 1.0 | Basic Latin
+[U+16A0–16F8]     | 20. Jan 2015 | Unicode 3.0 | Runic
+[U+10330–1034A]   | 20. Jan 2015 | Unicode 3.1 | Gothic
+[missing]         | 27. Jan 2015 |             | Early Cyrillic alphabet
+[U+0400–04FF]     | 27. Jan 2015 | Unicode 1.0 | Cyrillic
