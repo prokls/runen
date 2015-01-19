@@ -9,6 +9,13 @@ runen
 
 Referat und Präsentation über Schriften germanischer Völker (Runenschrift, Gotische Schrift).
 
+Der Textbeitrag wie folgt kompiliert werden:
+
+    pdflatex report
+    bibtex8 report
+    pdflatex report
+    pdflatex report
+
 Literature
 ----------
 
