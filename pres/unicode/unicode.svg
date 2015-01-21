@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.815"
-     inkscape:cx="200"
-     inkscape:cy="172.03857"
+     inkscape:zoom="1.92"
+     inkscape:cx="205.17537"
+     inkscape:cy="157.23148"
      inkscape:document-units="px"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -40,6 +40,93 @@
      inkscape:snap-global="false" />
   <defs
      id="defs3604">
+    <linearGradient
+       id="linearGradient8028">
+      <stop
+         style="stop-color:#f4e2b9;stop-opacity:1"
+         offset="0"
+         id="stop8030" />
+      <stop
+         style="stop-color:#896244;stop-opacity:1"
+         offset="1"
+         id="stop8032" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern7874"
+       patternTransform="scale(10,10)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect7152"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       id="linearGradient6419">
+      <stop
+         id="stop6421"
+         offset="0"
+         style="stop-color:#cbb583;stop-opacity:1;" />
+      <stop
+         id="stop6423"
+         offset="1"
+         style="stop-color:#cbb59e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6400">
+      <stop
+         style="stop-color:#f4e2b9;stop-opacity:0;"
+         offset="0"
+         id="stop6402" />
+      <stop
+         style="stop-color:#896244;stop-opacity:1"
+         offset="1"
+         id="stop6404" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6385">
+      <stop
+         style="stop-color:#cbb583;stop-opacity:1;"
+         offset="0"
+         id="stop6387" />
+      <stop
+         style="stop-color:#cbb5b3;stop-opacity:1;"
+         offset="1"
+         id="stop6389" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6359">
+      <stop
+         style="stop-color:#896244;stop-opacity:1"
+         offset="0"
+         id="stop6361" />
+      <stop
+         style="stop-color:#fff7db;stop-opacity:1;"
+         offset="1"
+         id="stop6363" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6322">
+      <stop
+         style="stop-color:#896244;stop-opacity:1;"
+         offset="0"
+         id="stop6324" />
+      <stop
+         style="stop-color:#f4e2b9;stop-opacity:1;"
+         offset="1"
+         id="stop6326" />
+    </linearGradient>
     <marker
        style="overflow:visible;"
        id="Arrow1Mend"
@@ -4935,7 +5022,7 @@
        id="grad0-8"
        x1="63.25"
        x2="94.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -4958,7 +5045,7 @@
        id="grad2-3"
        x1="94.375"
        x2="125.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="darkgray"
@@ -4981,7 +5068,7 @@
        id="grad3-5"
        x1="156.625"
        x2="187.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="blue"
@@ -5004,7 +5091,7 @@
        id="grad5-3"
        x1="218.875"
        x2="250"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="orange"
@@ -5035,7 +5122,7 @@
        id="grad7-8"
        x1="250"
        x2="281.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="orange"
@@ -5058,7 +5145,7 @@
        id="grad11-5"
        x1="1"
        x2="32.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="purple"
@@ -5081,7 +5168,7 @@
        id="grad14-6"
        x1="94.375"
        x2="125.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightgreen"
@@ -5104,7 +5191,7 @@
        id="gradv16-4"
        x1="187.75"
        x2="218.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="yellow"
@@ -5127,7 +5214,7 @@
        id="gradv18-6"
        x1="250"
        x2="281.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="yellowgreen"
@@ -5150,7 +5237,7 @@
        id="gradv19-34"
        x1="281.125"
        x2="312.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="darkgreen"
@@ -5173,7 +5260,7 @@
        id="gradv1A-4"
        x1="312.25"
        x2="343.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="purple"
@@ -5196,7 +5283,7 @@
        id="gradv1C-0"
        x1="374.5"
        x2="405.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="darkgreen"
@@ -5227,7 +5314,7 @@
        id="gradv1D-6"
        x1="405.625"
        x2="436.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightblue"
@@ -5250,7 +5337,7 @@
        id="gradv20-3"
        x1="1"
        x2="32.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="magenta"
@@ -5281,7 +5368,7 @@
        id="grad31-7"
        x1="32.125"
        x2="63.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -5304,7 +5391,7 @@
        id="grad33-0"
        x1="125.5"
        x2="156.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="magenta"
@@ -5327,7 +5414,7 @@
        id="grad35-0"
        x1="156.625"
        x2="187.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="magenta"
@@ -5342,7 +5429,7 @@
        id="grad36-3"
        x1="374.5"
        x2="405.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="blue"
@@ -5373,7 +5460,7 @@
        id="grad37-7"
        x1="405.625"
        x2="436.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="blue"
@@ -5404,7 +5491,7 @@
        id="grad39-5"
        x1="436.75"
        x2="467.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="magenta"
@@ -5427,7 +5514,7 @@
        id="grad40-9"
        x1="467.875"
        x2="499"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="salmon"
@@ -5458,7 +5545,7 @@
        id="grad41-0"
        x1="1"
        x2="32.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="magenta"
@@ -5481,7 +5568,7 @@
        id="grad42-4"
        x1="32.125"
        x2="63.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="red"
@@ -5528,7 +5615,7 @@
        id="grad43-3"
        x1="125.5"
        x2="156.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="salmon"
@@ -5543,7 +5630,7 @@
        id="grad44-4"
        x1="405.625"
        x2="436.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="salmon"
@@ -5566,7 +5653,7 @@
        id="grad45-08"
        x1="436.75"
        x2="467.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="salmon"
@@ -5581,7 +5668,7 @@
        id="grad46-5"
        x1="1"
        x2="32.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="red"
@@ -5596,7 +5683,7 @@
        id="grad49-2"
        x1="156.625"
        x2="187.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightgreen"
@@ -5611,7 +5698,7 @@
        id="grad50-1"
        x1="187.75"
        x2="218.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightgreen"
@@ -5642,7 +5729,7 @@
        id="grad52-8"
        x1="218.875"
        x2="250"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightblue"
@@ -5665,7 +5752,7 @@
        id="gradvA8-3"
        x1="250"
        x2="281.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="darkgreen"
@@ -5704,7 +5791,7 @@
        id="grad55-4"
        x1="281.125"
        x2="312.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="purple"
@@ -5743,7 +5830,7 @@
        id="grad57-0"
        x1="312.25"
        x2="343.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="purple"
@@ -5766,7 +5853,7 @@
        id="gradvAB-1"
        x1="343.375"
        x2="374.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="lightgreen"
@@ -5797,7 +5884,7 @@
        id="grad64-25"
        x1="343.375"
        x2="374.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -5828,7 +5915,7 @@
        id="grad66-8"
        x1="436.75"
        x2="467.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="cyan"
@@ -5883,7 +5970,7 @@
        id="grad68-74"
        x1="467.875"
        x2="499"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -5914,7 +6001,7 @@
        id="grad1-7"
        x1="63.25"
        x2="94.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -5937,7 +6024,7 @@
        id="grad4-7"
        x1="156.625"
        x2="187.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -5960,7 +6047,7 @@
        id="grad6-5"
        x1="218.875"
        x2="250"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -5991,7 +6078,7 @@
        id="gradn16-7"
        x1="187.75"
        x2="218.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6014,7 +6101,7 @@
        id="gradn1A-9"
        x1="312.25"
        x2="343.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6037,7 +6124,7 @@
        id="gradn1C-6"
        x1="374.5"
        x2="405.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6068,7 +6155,7 @@
        id="gradn1D-0"
        x1="405.625"
        x2="436.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6091,7 +6178,7 @@
        id="gradn20-8"
        x1="1"
        x2="32.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6122,7 +6209,7 @@
        id="grad32-6"
        x1="32.125"
        x2="63.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6145,7 +6232,7 @@
        id="grad34-3"
        x1="125.5"
        x2="156.625"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6168,7 +6255,7 @@
        id="grad38-6"
        x1="405.625"
        x2="436.75"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6199,7 +6286,7 @@
        id="grad51-2"
        x1="187.75"
        x2="218.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6230,7 +6317,7 @@
        id="grad53-08"
        x1="218.875"
        x2="250"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6253,7 +6340,7 @@
        id="gradnA8-3"
        x1="250"
        x2="281.125"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6284,7 +6371,7 @@
        id="grad56-8"
        x1="281.125"
        x2="312.25"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6323,7 +6410,7 @@
        id="grad58-3"
        x1="312.25"
        x2="343.375"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6346,7 +6433,7 @@
        id="gradnAB-71"
        x1="343.375"
        x2="374.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6369,7 +6456,7 @@
        id="grad65-5"
        x1="343.375"
        x2="374.5"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6392,7 +6479,7 @@
        id="grad67-0"
        x1="436.75"
        x2="467.875"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="black"
@@ -6439,7 +6526,7 @@
        id="grad69-8"
        x1="467.875"
        x2="499"
-       gradientTransform="matrix(2.3278843,0,0,2.3278843,-112.87827,-170.4449)">
+       gradientTransform="matrix(2.3278843,0,0,2.3278843,-178.05905,-170.4449)">
       <stop
          offset="0%"
          stop-color="white"
@@ -6457,6 +6544,86 @@
          stop-color="black"
          id="stop627" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6359"
+       id="linearGradient6365"
+       x1="44.226948"
+       y1="50.02227"
+       x2="42.688526"
+       y2="50.02227"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.1363636,-7.9545455)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6359-6"
+       id="linearGradient6365-1"
+       x1="44.226948"
+       y1="50.02227"
+       x2="42.688526"
+       y2="50.02227"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient6359-6">
+      <stop
+         style="stop-color:#896244;stop-opacity:1"
+         offset="0"
+         id="stop6361-4" />
+      <stop
+         style="stop-color:#fff7db;stop-opacity:1;"
+         offset="1"
+         id="stop6363-1" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter6413">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59143991"
+         id="feGaussianBlur6415" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6419"
+       id="linearGradient6429"
+       gradientUnits="userSpaceOnUse"
+       x1="26.193184"
+       y1="59.659096"
+       x2="20.68182"
+       y2="55.11364"
+       gradientTransform="matrix(1,0,0,1.0480696,0,-2.3320475)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6400"
+       id="linearGradient6431"
+       gradientUnits="userSpaceOnUse"
+       x1="41.555126"
+       y1="73.757538"
+       x2="43.335393"
+       y2="73.75754"
+       gradientTransform="matrix(1,0,0,1.0480696,0,-2.3320475)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="43.333332"
+       height="300"
+       id="pattern7871">
+      <rect
+         y="0"
+         x="0"
+         height="300"
+         width="43.333332"
+         id="rect5504"
+         style="fill:url(#pattern7874);fill-opacity:1;stroke:none" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8028"
+       id="linearGradient8034"
+       x1="41.591553"
+       y1="150"
+       x2="43.340569"
+       y2="150"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3607">
@@ -6466,10 +6633,141 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="bg"
+     style="display:inline">
+    <rect
+       style="fill:url(#linearGradient8034);fill-opacity:1;stroke:none"
+       width="43.333332"
+       height="300"
+       x="0"
+       y="0"
+       id="rect7876" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f0f0f0;fill-opacity:0.29279283;stroke:#958254;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6419"
+       sodipodi:cx="0"
+       sodipodi:cy="-0.1499252"
+       sodipodi:rx="35.682159"
+       sodipodi:ry="35.682159"
+       d="m 35.682159,-0.1499252 a 35.682159,35.682159 0 1 1 -71.364318,0 35.682159,35.682159 0 1 1 71.364318,0 z" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:1.89999998;stroke-miterlimit:4;stroke-opacity:1;display:inline;filter:url(#filter6413)"
+       d="M 43.426462,83.187504 C 22.463563,81.7388 5.6818203,64.224472 5.6818203,42.893563 5.6818203,21.534367 22.40706,4.052235 43.409441,2.644164"
+       id="path6336-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       transform="matrix(0.96484027,0,0,0.96484027,1.610172,0.00965867)" />
+    <path
+       style="fill:none;stroke:url(#linearGradient6365);stroke-width:1.83319652;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 43.509772,79.454023 C 23.283923,78.056255 7.092221,61.157726 7.092221,40.576806 c 0,-20.608212 16.137185,-37.475677 36.401128,-38.8342407"
+       id="path6336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <g
+       id="g6413"
+       style="opacity:0.55677658"
+       transform="matrix(1,0,0,0.95413514,0,2.2250885)">
+      <path
+         d="m 56.534092,73.86364 a 22.727272,22.727272 0 1 1 -45.454544,0 22.727272,22.727272 0 1 1 45.454544,0 z"
+         sodipodi:ry="22.727272"
+         sodipodi:rx="22.727272"
+         sodipodi:cy="73.86364"
+         sodipodi:cx="33.80682"
+         id="path5523"
+         style="fill:none;stroke:url(#linearGradient6429);stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 59.056444,73.86364 a 25.249624,25.249624 0 1 1 -50.4992483,0 25.249624,25.249624 0 1 1 50.4992483,0 z"
+         sodipodi:ry="25.249624"
+         sodipodi:rx="25.249624"
+         sodipodi:cy="73.86364"
+         sodipodi:cx="33.80682"
+         id="path5523-1"
+         style="fill:none;stroke:#958254;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc"
+         transform="translate(1.7919922e-8,2.2021484e-6)" />
+      <path
+         d="m 53.977274,73.86364 a 20.170454,20.170454 0 1 1 -40.340908,0 20.170454,20.170454 0 1 1 40.340908,0 z"
+         sodipodi:ry="20.170454"
+         sodipodi:rx="20.170454"
+         sodipodi:cy="73.86364"
+         sodipodi:cx="33.80682"
+         id="path5523-1-1"
+         style="fill:none;stroke:#958254;stroke-width:0.2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc"
+         transform="translate(0,2.1902275e-6)" />
+      <rect
+         y="48.866112"
+         x="41.556694"
+         height="49.78286"
+         width="1.7786976"
+         id="rect6398"
+         style="fill:url(#linearGradient6431);fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none"
+       id="rect6417"
+       width="356.66599"
+       height="300"
+       x="43.333"
+       y="-3.3306691e-14" />
+    <g
+       id="g7991">
+      <g
+         transform="matrix(0.64036705,0,0,0.64036705,17.448548,-3.4707851)"
+         id="g7978">
+        <rect
+           style="fill:#f8e6bd;fill-opacity:1;stroke:none"
+           id="rect7976"
+           width="3.0588284"
+           height="3.0573046"
+           x="-12.719172"
+           y="-51.574959"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           style="fill:none;stroke:#cbb490;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect7880"
+           width="1.9574825"
+           height="1.9574833"
+           x="48.768192"
+           y="-11.867904" />
+        <rect
+           style="fill:#cbb490;fill-opacity:1;stroke:none;display:inline"
+           id="rect7882-0"
+           width="0.59992552"
+           height="0.59992796"
+           x="50.976158"
+           y="-12.718313" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="intro"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5563"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
+         id="flowRegion5565"><rect
+           id="rect5567"
+           width="365.625"
+           height="150"
+           x="32.291668"
+           y="87.5" /></flowRegion><flowPara
+         id="flowPara5569"
+         style="font-style:italic;text-align:center;line-height:150%;text-anchor:middle;-inkscape-font-specification:Gentium Basic Italic">Brief excursion:</flowPara><flowPara
+         id="flowPara5571"
+         style="text-align:center;line-height:150%;text-anchor:middle">Digitization of writing systems</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
@@ -6479,16 +6777,16 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4380"
-       d="m 65.000134,161.30808 -2.68e-4,13.45355"
+       d="m 93.000134,161.30808 -2.68e-4,13.45355"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4380-2-3"
-       d="m 145.00013,115.46448 -2.7e-4,22.77177"
+       d="m 173.00013,115.46448 -2.7e-4,22.77177"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     <flowRoot
-       transform="translate(18.43603,21.848724)"
+       transform="translate(46.43603,21.848724)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        id="flowRoot6151-0"
        xml:space="preserve"><flowRegion
@@ -6503,19 +6801,19 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4380-2-3-5"
-       d="m 261.5065,163.39833 -2.7e-4,37.45355"
+       d="m 289.5065,163.39833 -2.7e-4,37.45355"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4380-2-3-2-7"
-       d="m 338.50013,122.59341 -2.7e-4,15.45355"
+       d="m 366.50013,122.59341 -2.7e-4,15.45355"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6151-9-32-6"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(212.0437,28.612428)"><flowRegion
+       transform="translate(220.0437,28.612428)"><flowRegion
          id="flowRegion6153-68-6-5"><rect
            id="rect6155-9-4-7"
            width="179.35469"
@@ -6524,7 +6822,7 @@
            y="80.502274"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara6157-9-5-7">file written to hard disk</flowPara></flowRoot>    <flowRoot
-       transform="translate(-61.489258,96.549838)"
+       transform="translate(-33.489258,96.549838)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        id="flowRoot6151-6-6"
        xml:space="preserve"><flowRegion
@@ -6536,7 +6834,7 @@
            width="179.35469"
            id="rect6155-2-7" /></flowRegion><flowPara
          id="flowPara6157-4-7">key press</flowPara></flowRoot>    <flowRoot
-       transform="translate(134.9424,123.15602)"
+       transform="translate(162.9424,123.15602)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        id="flowRoot6151-0-5"
        xml:space="preserve"><flowRegion
@@ -6558,21 +6856,21 @@
        id="rect12652"
        width="80.124947"
        height="28.925613"
-       x="64.87603"
+       x="92.87603"
        y="136.36363" />
     <rect
        style="fill:#ffd26e;fill-opacity:1;stroke:none"
        id="rect12652-0"
        width="148.07164"
        height="28.925613"
-       x="144.94766"
+       x="172.94766"
        y="136.36363" />
     <rect
        style="fill:#ff936e;fill-opacity:1;stroke:none"
        id="rect12652-0-8"
        width="45.316795"
        height="28.925613"
-       x="292.9642"
+       x="320.9642"
        y="136.36363" />
   </g>
   <g
@@ -6584,7 +6882,7 @@
        xml:space="preserve"
        id="flowRoot13130"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(5e-7,3.3562298)"><flowRegion
+       transform="translate(28.000001,3.3562298)"><flowRegion
          id="flowRegion13132"><rect
            id="rect13134"
            width="80.255646"
@@ -6594,7 +6892,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara13136"
          style="font-size:16px">hardware</flowPara></flowRoot>    <flowRoot
-       transform="translate(110.04208,3.2952498)"
+       transform="translate(138.04208,3.2952498)"
        xml:space="preserve"
        id="flowRoot13130-3"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
@@ -6607,7 +6905,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara13136-8"
          style="font-size:16px">”encoding“</flowPara></flowRoot>    <flowRoot
-       transform="translate(210.80619,3.2952498)"
+       transform="translate(238.80619,3.2952498)"
        xml:space="preserve"
        id="flowRoot13130-3-2"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
@@ -6629,7 +6927,7 @@
        xml:space="preserve"
        id="flowRoot13130-0"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(5e-7,-18.64377)"><flowRegion
+       transform="translate(28.000001,-18.64377)"><flowRegion
          id="flowRegion13132-17"><rect
            id="rect13134-7"
            width="80.255646"
@@ -6639,7 +6937,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara13136-5"
          style="font-size:16px;font-style:italic;-inkscape-font-specification:Gentium Basic Italic">*</flowPara></flowRoot>    <flowRoot
-       transform="translate(114.27645,-18.70475)"
+       transform="translate(142.27645,-18.70475)"
        xml:space="preserve"
        id="flowRoot13130-3-4"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
@@ -6652,7 +6950,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara13136-8-2"
          style="font-size:16px;font-style:italic;-inkscape-font-specification:Gentium Basic Italic">unicode</flowPara></flowRoot>    <flowRoot
-       transform="translate(210.91557,-18.70475)"
+       transform="translate(238.91557,-18.70475)"
        xml:space="preserve"
        id="flowRoot13130-3-2-5"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
@@ -6669,12 +6967,12 @@
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="Unicode"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot13532"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(15.426997,0)"><flowRegion
+       transform="translate(48.635327,0)"><flowRegion
          id="flowRegion13534"><rect
            id="rect13536"
            width="348.76035"
@@ -6682,49 +6980,52 @@
            x="8.8154268"
            y="12.947659" /></flowRegion><flowPara
          id="flowPara13538"
-         style="font-size:36px">Unicode</flowPara></flowRoot>    <flowRoot
+         style="font-size:32px">Unicode</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13540"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(14.325069,4.4077135)"><flowRegion
+       transform="translate(42.325069,4.4077135)"><flowRegion
          id="flowRegion13542"><rect
            id="rect13544"
-           width="416.52893"
-           height="321.21213"
+           width="308.19562"
+           height="203.50378"
            x="28.650137"
            y="62.534435" /></flowRegion><flowPara
          id="flowPara13546"
-         style="font-size:18px">112 804 characters specified.</flowPara><flowPara
+         style="font-size:16px">112 804 characters specified.</flowPara><flowPara
          id="flowPara13550"
-         style="font-size:18px">Distributed among 17 planes in blocks.</flowPara><flowPara
-         style="font-size:18px"
+         style="font-size:16px">Distributed among 17 planes in blocks.</flowPara><flowPara
+         style="font-size:16px"
          id="flowPara13554" /><flowPara
-         style="font-size:18px"
-         id="flowPara13558">One plane can contain up to 65535 characters</flowPara><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
+         id="flowPara13558">One plane can contain up to 65535 characters.</flowPara><flowPara
+         style="font-size:16px"
          id="flowPara13562" /><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
          id="flowPara13556">• Basic Multilingual Plane (plane 0)</flowPara><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
          id="flowPara13560">• Supplementary Multilingual Plane (plane 1)</flowPara><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
          id="flowPara13566">• Supplementary Ideographic Plane (plane 2)</flowPara><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
          id="flowPara24468" /><flowPara
-         style="font-size:18px"
+         style="font-size:16px"
          id="flowPara24470">Technical and linguistical issue.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13532-5"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="matrix(0.71546184,-0.69865181,0.69865181,0.71546184,298.27431,56.21363)"><flowRegion
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="matrix(0.71546184,-0.69865181,0.69865181,0.71546184,317.31373,65.563802)"><flowRegion
          id="flowRegion13534-1"><rect
            id="rect13536-6"
-           width="348.76035"
-           height="80.440773"
+           width="71.772369"
+           height="50.226265"
            x="8.8154268"
-           y="12.947659" /></flowRegion><flowPara
+           y="12.947659"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara13538-4"
-         style="font-size:18px;font-style:italic;-inkscape-font-specification:Gentium Basic Italic">emojis!</flowPara></flowRoot>  </g>
+         style="font-size:18px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Gentium Basic Italic">emojis!</flowPara><flowPara
+         style="font-size:18px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Gentium Basic Italic"
+         id="flowPara5503">😜</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer25"
@@ -6734,13 +7035,13 @@
        style="fill:#ffffff;stroke-width:0"
        height="214.78731"
        width="322.18097"
-       x="48.489639"
+       x="76.489639"
        y="73.218803"
        id="rect629" />
     <g
        style="stroke:#dadada;stroke-width:2px"
        id="g631"
-       transform="matrix(0.42957462,0,0,0.42957462,48.489638,73.218811)">
+       transform="matrix(0.42957462,0,0,0.42957462,76.489638,73.218811)">
       <rect
          style="fill:#000000"
          height="31.125"
@@ -8650,7 +8951,7 @@
        style="font-size:15.5625px;text-anchor:middle;stroke-width:0"
        font-size="15.5625px"
        id="g1177"
-       transform="matrix(0.42957462,0,0,0.42957462,48.489638,73.218811)">
+       transform="matrix(0.42957462,0,0,0.42957462,76.489638,73.218811)">
       <text
          style="fill:#ffffff"
          x="16.5625"
@@ -9937,7 +10238,7 @@
        font-size="12.5px"
        text-anchor="left"
        id="g1691"
-       transform="matrix(0.42957462,0,0,0.42957462,48.489638,73.218811)">
+       transform="matrix(0.42957462,0,0,0.42957462,76.489638,73.218811)">
       <text
          x="552.66669"
          y="27.666666"
@@ -10013,35 +10314,23 @@
     </g>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot13532-3"
+       id="flowRoot13532-0"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(15.426997,1.9778481e-6)"><flowRegion
-         id="flowRegion13534-9"><rect
-           id="rect13536-4"
-           width="384.60266"
-           height="80.440765"
+       transform="translate(48.635327,-4.6413504e-7)"><flowRegion
+         id="flowRegion13534-5"><rect
+           id="rect13536-9"
+           width="348.76035"
+           height="80.440773"
            x="8.8154268"
            y="12.947659" /></flowRegion><flowPara
-         id="flowPara13538-2"
-         style="font-size:36px">Basic Multilingual Plane</flowPara></flowRoot>  </g>
+         id="flowPara13538-1"
+         style="font-size:32px">Basic Multilingual Plane</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer26"
      inkscape:label="lecture 1"
      style="display:none">
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot13532-3-7"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(15.426997,1.9778481e-6)"><flowRegion
-         id="flowRegion13534-9-1"><rect
-           id="rect13536-4-1"
-           width="384.60266"
-           height="80.440765"
-           x="8.8154268"
-           y="12.947659" /></flowRegion><flowPara
-         id="flowPara13538-2-1"
-         style="font-size:36px">Writing systems (lecture)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot20720"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
@@ -10057,7 +10346,7 @@
        xml:space="preserve"
        id="flowRoot21352"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(-28.325069,-1.6528925)"><flowRegion
+       transform="translate(11.674931,-1.6528925)"><flowRegion
          id="flowRegion21354"><rect
            id="rect21356"
            width="89.741844"
@@ -10103,7 +10392,7 @@
        xml:space="preserve"
        id="flowRoot22599"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(-35.907203,-10.240103)"><flowRegion
+       transform="translate(6.092797,-10.240103)"><flowRegion
          id="flowRegion22601"><rect
            id="rect22603"
            width="58.075508"
@@ -10149,95 +10438,123 @@
        xml:space="preserve"
        id="flowRoot23222"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(-116.96578,-10.306945)"><flowRegion
+       transform="translate(-76.96578,-10.306945)"><flowRegion
          id="flowRegion23224"><rect
            id="rect23226"
            width="109.23965"
            height="451.72577"
            x="267.76859"
            y="71.900826" /></flowRegion><flowPara
-         id="flowPara23286"
-         style="font-size:10px" /><flowPara
          style="font-size:10px"
-         id="flowPara23843">Unicode 5.0</flowPara><flowPara
+         id="flowPara23841"></flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23785" /><flowPara
+         id="flowPara5793">5.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23787">Unicode 5.2</flowPara><flowPara
+         id="flowPara5795"></flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23789" /><flowPara
+         id="flowPara5797">5.2</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23791">Unicode 1.0</flowPara><flowPara
+         id="flowPara5799"></flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23793">Unicode 1.0</flowPara><flowPara
+         id="flowPara5801">1.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23795">Unicode 5.2</flowPara><flowPara
+         id="flowPara5803">1.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23797">Unicode 4.1</flowPara><flowPara
+         id="flowPara5805">5.2</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23799">Unicode 6.0</flowPara><flowPara
+         id="flowPara5807">4.1</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23801">Unicode 1.0</flowPara><flowPara
+         id="flowPara5809">6.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23803">Unicode 1.0</flowPara><flowPara
+         id="flowPara5811">1.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23805">Unicode 1.0</flowPara><flowPara
+         id="flowPara5813">1.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23807">Unicode 3.0</flowPara><flowPara
+         id="flowPara5815">1.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23809">Unicode 3.1</flowPara><flowPara
+         id="flowPara5817">3.0</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23811">Unicode 5.2</flowPara><flowPara
+         id="flowPara5819">3.1</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23813">Unicode 6.0</flowPara><flowPara
+         id="flowPara5821">5.2</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara23841" /></flowRoot>    <flowRoot
+         id="flowPara5823">6.0</flowPara><flowPara
+         style="font-size:10px"
+         id="flowPara5825" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot23845"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        transform="translate(-77.68595,-2.6602904)"><flowRegion
          id="flowRegion23847"><rect
            id="rect23849"
            width="203.05461"
            height="221.94566"
            x="289.80716"
-           y="64.187325" /></flowRegion><flowPara
+           y="64.187325"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara23911"
-         style="font-size:10px">Vinča symbols</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start">Vinča symbols</flowPara><flowPara
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24408">Cuneiform [Keilschrift]</flowPara><flowPara
-         style="font-size:10px"
-         id="flowPara24410">Hieroglyphs of Ankhi people, Dongba and geba</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
+         id="flowPara24410">Hieroglyphs of Ankhi, Dongba and geba</flowPara><flowPara
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24412">Egyptian Hieroglyphs</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24414">Anatolian Hieroglyphs</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24416">Devaganari</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24418">Devaganari Extended</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24420">Vedic Extensions</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24422">Supplementary Multilingual Plane, Kharoṣṭhī</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24424">Supplementary Multilingual Plane, Brāhmī</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24426">Hiragana</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24428">Katakana</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24430">CJK Unified Ideographs [Kanji, Han Unified]</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24432">CJK Unified Ideographs Extension A</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24434">CJK Unified Ideographs Extension B</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24436">CJK Unified Ideographs Extension C</flowPara><flowPara
-         style="font-size:10px"
+         style="font-size:10px;text-align:start;text-anchor:start"
          id="flowPara24438">CJK Unified Ideographs Extension D</flowPara><flowPara
-         style="font-size:10px"
-         id="flowPara24466" /></flowRoot>  </g>
+         style="font-size:10px;text-align:start;text-anchor:start"
+         id="flowPara24466" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13532-0-8"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(48.635327,-4.6413504e-7)"><flowRegion
+         id="flowRegion13534-5-4"><rect
+           id="rect13536-9-5"
+           width="348.76035"
+           height="80.440773"
+           x="8.8154268"
+           y="12.947659" /></flowRegion><flowPara
+         id="flowPara13538-1-7"
+         style="font-size:32px">Writing systems (lecture)</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.16666,60.416667 0,214.062503"
+       id="path5895"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 187.16666,60.41667 0,214.0625"
+       id="path5895-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 207.16666,60.41667 0,214.0625"
+       id="path5895-5-8"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer27"
@@ -10247,7 +10564,7 @@
        xml:space="preserve"
        id="flowRoot24605"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(33.956884,-209.67292)"><flowRegion
+       transform="translate(71.956884,-209.67292)"><flowRegion
          id="flowRegion24607"><rect
            id="rect24609"
            width="82.987534"
@@ -10286,7 +10603,7 @@
        xml:space="preserve"
        id="flowRoot24873"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(160.63925,-219.80227)"><flowRegion
+       transform="translate(201.37582,-219.80227)"><flowRegion
          id="flowRegion24875"><rect
            id="rect24877"
            width="56.880207"
@@ -10311,7 +10628,7 @@
        xml:space="preserve"
        id="flowRoot25011"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(186.74181,-253.30705)"><flowRegion
+       transform="translate(225.47838,-253.30705)"><flowRegion
          id="flowRegion25013"><rect
            id="rect25015"
            width="52.984314"
@@ -10319,21 +10636,21 @@
            x="-34.283966"
            y="327.27133"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara25017">Unicode 7.0</flowPara><flowPara
-         id="flowPara25019">Unicode 4.0</flowPara><flowPara
-         id="flowPara25021">Unicode 4.0</flowPara><flowPara
-         id="flowPara25023">Unicode 4.0</flowPara><flowPara
-         id="flowPara25025">Unicode 1.0</flowPara><flowPara
-         id="flowPara25027">Unicode 1.1</flowPara><flowPara
-         id="flowPara25029">Unicode 4.1</flowPara><flowPara
-         id="flowPara25031">Unicode 5.0</flowPara><flowPara
-         id="flowPara25033" /><flowPara
-         id="flowPara25035">Unicode 1.0</flowPara><flowPara
-         id="flowPara25037">Unicode 3.0</flowPara><flowPara
-         id="flowPara25039">Unicode 3.1</flowPara><flowPara
-         id="flowPara25041" /><flowPara
-         id="flowPara25043">Unicode 1.0</flowPara></flowRoot>    <flowRoot
-       transform="translate(-0.65122861,-215.12718)"
+         id="flowPara25043">7.0</flowPara><flowPara
+         id="flowPara6890">4.0</flowPara><flowPara
+         id="flowPara6892">4.0</flowPara><flowPara
+         id="flowPara6894">4.0</flowPara><flowPara
+         id="flowPara6896">1.0</flowPara><flowPara
+         id="flowPara6898">1.1</flowPara><flowPara
+         id="flowPara6900">4.1</flowPara><flowPara
+         id="flowPara6902">5.0</flowPara><flowPara
+         id="flowPara6904"></flowPara><flowPara
+         id="flowPara6906">1.0</flowPara><flowPara
+         id="flowPara6908">3.0</flowPara><flowPara
+         id="flowPara6910">3.1</flowPara><flowPara
+         id="flowPara6912"></flowPara><flowPara
+         id="flowPara6914">1.0</flowPara></flowRoot>    <flowRoot
+       transform="translate(-2.8609374,-215.12718)"
        xml:space="preserve"
        id="flowRoot25149"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
@@ -10372,18 +10689,6 @@
          style="font-size:10px"
          id="flowPara25311">Cyrillic</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot13532-3-7-7"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(15.426997,-1.7721519e-6)"><flowRegion
-         id="flowRegion13534-9-1-9"><rect
-           id="rect13536-4-1-4"
-           width="384.60266"
-           height="80.440765"
-           x="8.8154268"
-           y="12.947659" /></flowRegion><flowPara
-         id="flowPara13538-2-1-4"
-         style="font-size:36px">Writing systems (lecture)</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot20720-5"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        transform="translate(68.319558,208.26446)"><flowRegion
@@ -10394,7 +10699,37 @@
            x="25.344353"
            y="66.942146"
            style="font-size:16px;text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara20790-2">See http://www.unicode.org/charts/</flowPara></flowRoot>  </g>
+         id="flowPara20790-2">See http://www.unicode.org/charts/</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13532-0-8-3"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(48.635327,-4.6413504e-7)"><flowRegion
+         id="flowRegion13534-5-4-8"><rect
+           id="rect13536-9-5-9"
+           width="348.76035"
+           height="80.440773"
+           x="8.8154268"
+           y="12.947659" /></flowRegion><flowPara
+         id="flowPara13538-1-7-8"
+         style="font-size:32px">Writing systems (lecture)</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 129.16666,72.41667 0,180.0625"
+       id="path5895-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 187.16666,72.416673 0,180.062497"
+       id="path5895-5-87"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#694300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 207.16666,72.416673 0,180.062497"
+       id="path5895-5-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer28"
@@ -10415,7 +10750,7 @@
        xml:space="preserve"
        id="flowRoot13532-3-7-7-1"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(15.426997,-1.7721519e-6)"><flowRegion
+       transform="translate(15.426997,-40.000002)"><flowRegion
          id="flowRegion13534-9-1-9-9"><rect
            id="rect13536-4-1-4-2"
            width="384.60266"
@@ -10423,10 +10758,11 @@
            x="8.8154268"
            y="12.947659" /></flowRegion><flowPara
          id="flowPara13538-2-1-4-4"
-         style="font-size:28px">Runes in ISO 10646/Unicode?! </flowPara></flowRoot>    <flowRoot
+         style="font-size:28px" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot25623"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(41.562499,-16)"><flowRegion
          id="flowRegion25625"><rect
            id="rect25627"
            width="368.04407"
@@ -10435,10 +10771,13 @@
            y="61.432507"
            style="font-size:16px" /></flowRegion><flowPara
          id="flowPara25629"
-         style="font-size:10px">https://groups.google.com/forum/#!topic/swnet.svenska/Sh8NUXegzKY,   12.01.1995</flowPara></flowRoot>    <flowRoot
+         style="font-size:10px"><flowSpan
+   style="font-size:8px"
+   id="flowSpan6978">https://groups.google.com/forum/#!topic/swnet.svenska/Sh8NUXegzKY</flowSpan>,  12.01.1995</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot25631"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"><flowRegion
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(46.083332,-14)"><flowRegion
          id="flowRegion25633"><rect
            id="rect25635"
            width="262.45358"
@@ -10501,13 +10840,25 @@
          style="font-size:12px;text-align:end;text-anchor:end"
          id="flowPara26070">Bergen, NORWAY</flowPara><flowPara
          style="font-size:12px;text-align:end;text-anchor:end"
-         id="flowPara26072" /></flowRoot>  </g>
+         id="flowPara26072" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13532-0-8-3-0"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(48.635327,-4.6413504e-7)"><flowRegion
+         id="flowRegion13534-5-4-8-6"><rect
+           id="rect13536-9-5-9-3"
+           width="348.76035"
+           height="80.440773"
+           x="8.8154268"
+           y="12.947659" /></flowRegion><flowPara
+         id="flowPara13538-1-7-8-3"
+         style="font-size:26px">Runes in ISO 10646/Unicode?! </flowPara></flowRoot>  </g>
   <g
      transform="translate(0,-752.36218)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="content"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
@@ -10519,87 +10870,97 @@
          id="tspan11181"
          x="-363.43454"
          y="803.99249"
-         style="font-size:10px">bg, id, line components</tspan><tspan
+         style="font-size:10px">bg, intro</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="816.49249"
          style="font-size:10px"
-         id="tspan12643">bg, id, os, line components</tspan><tspan
+         id="tspan5561">bg, id, line components</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="828.99249"
          style="font-size:10px"
-         id="tspan12647">bg, id, os, web, line components</tspan><tspan
+         id="tspan12643">bg, id, os, line components</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="841.49249"
          style="font-size:10px"
-         id="tspan12645">bg, id, os, web, hd, line components</tspan><tspan
+         id="tspan12647">bg, id, os, web, line components</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="853.99249"
          style="font-size:10px"
-         id="tspan12649">bg, id, os, web, hd, line components, components arrows</tspan><tspan
+         id="tspan12645">bg, id, os, web, hd, line components</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="866.49249"
          style="font-size:10px"
-         id="tspan11184">bg, id, os, web, hd, events, line events</tspan><tspan
+         id="tspan12649">bg, id, os, web, hd, line components, components arrows</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="878.99249"
          style="font-size:10px"
-         id="tspan12690">bg, id, os, web, hd, encodings, line events</tspan><tspan
+         id="tspan11184">bg, id, os, web, hd, events, line events</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="891.49249"
          style="font-size:10px"
-         id="tspan12807">bg, id, os, web, hd, encodings, line events, example A</tspan><tspan
+         id="tspan12690">bg, id, os, web, hd, encodings, line events</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="903.99249"
          style="font-size:10px"
-         id="tspan13128">bg, id, os, web, hd, encodings, line events, example chi</tspan><tspan
+         id="tspan12807">bg, id, os, web, hd, encodings, line events, example A</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="916.49249"
          style="font-size:10px"
-         id="tspan13297">bg, id, os, web, hd, encodings, line events, mapping names</tspan><tspan
+         id="tspan13128">bg, id, os, web, hd, encodings, line events, example chi</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="928.99249"
          style="font-size:10px"
-         id="tspan13299">bg, id, os, web, hd, encodings, line events, mapping names, standards</tspan><tspan
+         id="tspan13297">bg, id, os, web, hd, encodings, line events, mapping names</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="941.49249"
          style="font-size:10px"
-         id="tspan13527">bg, id, os, web, hd, encodings, line events, mapping names, standards, actions</tspan><tspan
+         id="tspan13299">bg, id, os, web, hd, encodings, line events, mapping names, standards</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="953.99249"
          style="font-size:10px"
-         id="tspan13530">bg, Unicode</tspan><tspan
+         id="tspan13527">bg, id, os, web, hd, encodings, line events, mapping names, standards, actions</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="966.49249"
          style="font-size:10px"
-         id="tspan13571">bg, BMP</tspan><tspan
+         id="tspan13530">bg, Unicode</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="978.99249"
          style="font-size:10px"
-         id="tspan20691">bg, lecture 1</tspan><tspan
+         id="tspan13571">bg, BMP</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="991.49249"
          style="font-size:10px"
-         id="tspan26074">bg, lecture 2</tspan><tspan
+         id="tspan20691">bg, lecture 1</tspan><tspan
          sodipodi:role="line"
          x="-363.43454"
          y="1003.9925"
          style="font-size:10px"
-         id="tspan26076">bg, runic</tspan></text>
+         id="tspan26074">bg, lecture 2</tspan><tspan
+         sodipodi:role="line"
+         x="-363.43454"
+         y="1016.4925"
+         style="font-size:10px"
+         id="tspan26076">bg, runic</tspan><tspan
+         sodipodi:role="line"
+         x="-363.43454"
+         y="1028.9924"
+         style="font-size:10px"
+         id="tspan5562">bg, thanks</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10608,7 +10969,7 @@
      style="display:none">
     <path
        style="fill:none;stroke:#c8c8c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 20,150 360,0"
+       d="m 48,150 348,0"
        id="path10153-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -10616,7 +10977,7 @@
        sodipodi:nodetypes="cccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4378-2"
-       d="m 20,150 24,0 c 0,0 1.432813,4 2.5,4 l 33.5,0 c 1.067187,0 2.5,-4 2.5,-4 l 21.5,0 c 0,0 1.76662,-4 2.5,-4 l 53.5,0 c 0.33381,0 2.5,4 2.5,4 l 20,0 c 0,0 1.43281,4 2.5,4 l 108,0 c 1.06719,0 2.5,-4 2.5,-4 l 27,0 c 0,0 1.43281,-4 2.5,-4 l 20,0 c 0.94791,0 2.5,4 2.5,4 l 32.5,0"
+       d="m 48,150 24,0 c 0,0 1.432813,4 2.5,4 l 33.5,0 c 1.06719,0 2.5,-4 2.5,-4 l 21.5,0 c 0,0 1.76662,-4 2.5,-4 l 53.5,0 c 0.33381,0 2.5,4 2.5,4 l 20,0 c 0,0 1.43281,4 2.5,4 l 108,0 c 1.06719,0 2.5,-4 2.5,-4 l 27,0 c 0,0 1.43281,-4 2.5,-4 l 20,0 c 0.94791,0 2.5,4 2.5,4 l 20.5,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline" />
   </g>
   <g
@@ -10626,7 +10987,7 @@
      style="display:none">
     <path
        style="fill:none;stroke:#c8c8c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20,150 360,0"
+       d="m 48,150 348,0"
        id="path10153"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -10634,7 +10995,7 @@
        sodipodi:nodetypes="cccczcccccczcccccczzcccccczcccc"
        inkscape:connector-curvature="0"
        id="path4378"
-       d="m 20,150 24,0 c 0,0 1.432813,4 2.5,4 l 16,0 c 0,0 1.432813,4 2.5,4 1.067187,0 2.5,-4 2.5,-4 l 12.5,0 c 1.067187,0 2.5,-4 2.5,-4 l 21.5,0 c 0,0 1.76662,-4 2.5,-4 l 36,0 c 0,0 1.43281,-4 2.5,-4 1.06719,0 2.5,4 2.5,4 l 12.5,0 c 0.33381,0 2.5,4 2.5,4 l 20,0 c 0,0 1.43281,4 2.5,4 l 47.5,0 c 0,0 1.43281,4 2.5,4 1.06719,0 48.93281,0 50,0 1.06719,0 2.5,-4 2.5,-4 l 5.5,0 c 1.06719,0 2.5,-4 2.5,-4 l 27,0 c 0,0 1.43281,-4 2.5,-4 l 11,0 c 0,0 1.43281,-4 2.5,-4 1.06719,0 2.5,4 2.5,4 l 4,0 c 0.94791,0 2.5,4 2.5,4 l 32.5,0"
+       d="m 48,150 24,0 c 0,0 1.432813,4 2.5,4 l 16,0 c 0,0 1.432813,4 2.5,4 1.067187,0 2.5,-4 2.5,-4 l 12.5,0 c 1.06719,0 2.5,-4 2.5,-4 l 21.5,0 c 0,0 1.76662,-4 2.5,-4 l 36,0 c 0,0 1.43281,-4 2.5,-4 1.06719,0 2.5,4 2.5,4 l 12.5,0 c 0.33381,0 2.5,4 2.5,4 l 20,0 c 0,0 1.43281,4 2.5,4 l 47.5,0 c 0,0 1.43281,4 2.5,4 1.06719,0 48.93281,0 50,0 1.06719,0 2.5,-4 2.5,-4 l 5.5,0 c 1.06719,0 2.5,-4 2.5,-4 l 27,0 c 0,0 1.43281,-4 2.5,-4 l 11,0 c 0,0 1.43281,-4 2.5,-4 1.06719,0 2.5,4 2.5,4 l 4,0 c 0.94791,0 2.5,4 2.5,4 l 20.5,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   </g>
   <g
@@ -10644,7 +11005,7 @@
      style="display:none">
     <g
        style="display:inline"
-       transform="translate(27.006676,-727.92468)"
+       transform="translate(55.006676,-727.92468)"
        id="g6173">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -11407,7 +11768,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <flowRoot
-       transform="translate(-58.059245,138.51943)"
+       transform="translate(-30.059245,138.51943)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        id="flowRoot6151-6"
        xml:space="preserve"><flowRegion
@@ -11427,7 +11788,7 @@
     <g
        style="display:inline"
        id="g10890"
-       transform="matrix(1.0464166,0,0,1,21.572999,-13.580581)">
+       transform="matrix(1.0464166,0,0,1,49.572999,-13.580581)">
       <g
          style="display:inline;enable-background:new"
          id="g6105"
@@ -11602,7 +11963,7 @@
     <g
        style="display:inline"
        id="g10883"
-       transform="translate(-2.9462803,47.877022)">
+       transform="translate(25.05372,47.877022)">
       <image
          y="202.27008"
          x="228.07462"
@@ -11633,7 +11994,7 @@
     <g
        style="display:inline"
        id="g10874"
-       transform="translate(10.736565,-28.844017)">
+       transform="translate(38.736565,-28.844017)">
       <g
          transform="matrix(-0.07218936,0,0,0.07218936,337.41656,54.082547)"
          id="g10037"
@@ -11669,31 +12030,26 @@
      style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="m 62.240128,216.76764 0,-58.189"
+       d="m 90.240128,216.76764 0,-58.189"
        id="path10925"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="m 133.31909,81.975413 0,59.662127"
+       d="m 161.31909,81.975413 0,59.662127"
        id="path10927"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="m 241.9631,233.70874 0,-75.1301"
+       d="m 269.9631,233.70874 0,-75.1301"
        id="path10929"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="m 335.87572,79.92428 0,62.08155"
+       d="m 363.87572,79.92428 0,62.08155"
        id="path10931"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="bg"
-     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer20"
@@ -11703,7 +12059,7 @@
        xml:space="preserve"
        id="flowRoot12693-5"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(-2.119961,-4.9586791)"><flowRegion
+       transform="translate(25.880039,-4.9586791)"><flowRegion
          id="flowRegion12695-3"><rect
            id="rect12697-5"
            width="71.074379"
@@ -11715,7 +12071,7 @@
        xml:space="preserve"
        id="flowRoot12693-3-2"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(111.90926,-4.9586791)"><flowRegion
+       transform="translate(139.90926,-4.9586791)"><flowRegion
          id="flowRegion12695-7-7"><rect
            id="rect12697-6-3"
            width="71.074379"
@@ -11727,20 +12083,24 @@
        xml:space="preserve"
        id="flowRoot12693-3-9-6"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(165.13853,4.6115718)"><flowRegion
+       transform="translate(183.24809,-1.3884282)"><flowRegion
          id="flowRegion12695-7-3-3"><rect
            id="rect12697-6-7-5"
-           width="177.41048"
-           height="21.4876"
+           width="177.41049"
+           height="40.237595"
            x="71.625343"
            y="169.42149"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara12699-2-1-5"
-         style="font-size:10px;text-align:center;text-anchor:middle">111000111000001110000001</flowPara></flowRoot>    <flowRoot
+         style="font-size:10px;text-align:center;text-anchor:middle">11100011</flowPara><flowPara
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="flowPara5554">10000011</flowPara><flowPara
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="flowPara5558">10000001</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12693-3-4-5"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(153.7509,35.351466)"><flowRegion
+       transform="translate(181.7509,35.351466)"><flowRegion
          id="flowRegion12695-7-5-9"><rect
            id="rect12697-6-0-5"
            width="71.074379"
@@ -11753,7 +12113,7 @@
        id="rect12701-3"
        width="2.8732243"
        height="2.8853877"
-       x="58.483929"
+       x="86.483932"
        y="255.69902" />
   </g>
   <g
@@ -11765,7 +12125,7 @@
        xml:space="preserve"
        id="flowRoot12693"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(-2.1199608,-4.9586777)"><flowRegion
+       transform="translate(25.880039,-4.9586777)"><flowRegion
          id="flowRegion12695"><rect
            id="rect12697"
            width="71.074379"
@@ -11778,13 +12138,13 @@
        id="rect12701"
        width="2.8732243"
        height="2.8853877"
-       x="58.483929"
+       x="86.483932"
        y="255.69902" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12693-3"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(111.90926,-4.9586791)"><flowRegion
+       transform="translate(139.90926,-4.9586791)"><flowRegion
          id="flowRegion12695-7"><rect
            id="rect12697-6"
            width="71.074379"
@@ -11796,7 +12156,7 @@
        xml:space="preserve"
        id="flowRoot12693-3-9"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(218.96391,1.8567479)"><flowRegion
+       transform="translate(246.96391,1.8567479)"><flowRegion
          id="flowRegion12695-7-3"><rect
            id="rect12697-6-7"
            width="85.950409"
@@ -11810,7 +12170,7 @@
        xml:space="preserve"
        id="flowRoot12693-3-4"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
-       transform="translate(153.7509,35.351466)"><flowRegion
+       transform="translate(181.7509,35.351466)"><flowRegion
          id="flowRegion12695-7-5"><rect
            id="rect12697-6-0"
            width="71.074379"
@@ -11825,7 +12185,7 @@
      inkscape:label="actions"
      style="display:none">
     <flowRoot
-       transform="translate(100.42884,120.43984)"
+       transform="translate(128.42884,120.43984)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
        id="flowRoot6151-9-3"
        xml:space="preserve"><flowRegion
@@ -11839,9 +12199,53 @@
          id="flowPara6157-9-7"
          style="font-size:12px">h1 { text-transform: uppercase }</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11142)"
-       d="m 255.64738,199.41598 0,-36.60606"
+       d="m 283.64738,199.41598 0,-36.60606"
        id="path13329"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="thanks"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5565"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(-32,200)"><flowRegion
+         id="flowRegion5567"><rect
+           id="rect5569"
+           width="267.1875"
+           height="208.33333"
+           x="78.645836"
+           y="49.479168"
+           style="font-size:18px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5572">Danke für eure Aufmerksamkeit!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5574"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(20.845215,43.127298)"><flowRegion
+         id="flowRegion5576"><rect
+           id="rect5578"
+           width="191.66667"
+           height="150"
+           x="116.14584"
+           y="53.125" /></flowRegion><flowPara
+         id="flowPara5580"
+         style="font-size:70px;text-align:center;text-anchor:middle">☺</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5565-0"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Gentium Basic;-inkscape-font-specification:Gentium Basic"
+       transform="translate(-18.520833,-32)"><flowRegion
+         id="flowRegion5567-8"><rect
+           id="rect5569-8"
+           width="267.1875"
+           height="208.33333"
+           x="78.645836"
+           y="49.479168"
+           style="font-size:18px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara6943">Schrift und Schreiben im Altertum,</flowPara><flowPara
+         id="flowPara6945">20. Jänner 2015,</flowPara><flowPara
+         id="flowPara6949">Runen</flowPara></flowRoot>  </g>
 </svg>
