@@ -9,12 +9,13 @@ runen
 
 Referat und Präsentation über Schriften germanischer Völker (Runenschrift, Gotische Schrift).
 
-Der Textbeitrag wie folgt kompiliert werden:
+Für den Textbeitrag sind zusätzliche Schriftarten notwendig, die *nicht* Teil des Repositories sind.
+Im Allgemeinen kann der Beitrag wie folgt kompiliert werden:
 
-    pdflatex report
-    bibtex8 report
-    pdflatex report
-    pdflatex report
+    xelatex report
+    biber report
+    xelatex report
+    xelatex report
 
 Literature
 ----------
