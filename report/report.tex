@@ -49,8 +49,7 @@
 \crefformat{footnote}{#2\footnotemark[#1]#3}
 
 \newcommand{\character}[1]{\textsc{#1}}
-\captionsetup{justification=centering}
-
+\captionsetup{labelfont=bf,justification=centering,singlelinecheck=true}
 
 \author{Lukas Prokop, *}
 \title{Runen und die Ogham-Schrift}
@@ -254,7 +253,7 @@ Signifikant ist in diesem Zusammenhang die Verwendung der Metapher \enquote{alu}
 %
 Eine frühe Form der Verschlüsselung kann an den Geheimrunen erkannt werden. Düwel~\cite[S. 182]{düwel} identifiziert mehrere Verschlüsselungsarten (siehe Tabelle~\ref{tab:encodings}).
 
-\begin{table}[!t]
+\begin{table}[p]
   \begin{minipage}{0.5\textwidth}
     \begin{itemize}
       \item Umstellung
@@ -276,14 +275,18 @@ Eine frühe Form der Verschlüsselung kann an den Geheimrunen erkannt werden. D�
 
 Im Folgenden soll folgendes kreative Verfahren illustriert werden: Die Runen werden in 3 Gruppen eingeteilt (siehe Tabelle~\ref{tab:encode}).
 
-\begin{table}[!t]
+\begin{table}[p]
   \begin{center}
     \begin{tabular}{clll}
-      Klasse 1: & f, u, {\runicfont ᚦ}, {\runicfont ą}, r, k \\
-      Klasse 2: & h, n, i, a, s \\
-      Klasse 3: & t, b, m, l, \textsc{r}
+     \hline \hline
+      Gruppe 1 & f, u, {\runicfont ᚦ}, {\runicfont ą}, r, k \\
+     \hline
+      Gruppe 2 & h, n, i, a, s \\
+     \hline
+      Gruppe 3 & t, b, m, l, \textsc{r} \\
+     \hline \hline
     \end{tabular}
-    \caption{Einteilung der Runen in 3 Klassen zur Verschlüsselung~\cite[S. 183]{düwel}}
+    \caption{Einteilung der Runen in 3 Gruppe in einem Verschlüsselungsverfahren~\cite[S. 183]{düwel}}
     \label{tab:encode}
   \end{center}
 \end{table}
@@ -296,19 +299,20 @@ Nun handelt es sich beim Buchstaben \enquote{f} um das erste Zeichen der ersten 
 Die Ursprünge der Ogham-Schrift reichen in das 1. Jahrhundert nach Christus zurück~\cite{ogham-heidnisch1}.
 Die meisten heutigen Zeugnisse der Ogham-Schrift stammen allerdings aus der Zeit zwischen dem 4. und 5.~Jhdt. n.~Chr.
 Es handelt sich fast ausschließlich um Steininschriften, die Namensnennungen aufweisen. Diese Steine wurden etwa als Grabsteine oder zur Besitzangabe verwendet.
-
-\begin{figure}[t]
+%
+\begin{wrapfigure}{r}{0.4\textwidth}
   \begin{center}
     \includegraphics{images/ogham_areas.pdf}
+    \captionsetup{justification=raggedright}
     \caption{Violette Bereiche geben Bereiche mit Verbreitung der Ogham-Schrift an}
   \end{center}
-\end{figure}
+\end{wrapfigure}
 
 Die Ogham-Schrift [{\footnotesize IPA:} {\ipafont ˈɔɣam}] wurde im keltischen Kulturbereich verwendet und Relikte finden sich in den heutigen Gebieten Irlands, Schottlands und dem westlichen England. Die Oghamschrift war eine wichtige Grundlage zur Erforschung der archaisch-irischen Sprache bzw. ihrem Nachfolger Altirisch.
 
 Bezüglich des Ursprungs des Namens Ogham für die Schrift gibt es verschiedene Theorien. So lautet eine Theorie etwa, dass der altirische Gott der Redekunst namens \foreignlanguage{greek}{\ipafont Ὄγμιος} sich für die Namensgebung verantwortlich zeichnet. 
 
-Fraglich bleibt außerdem ob die Ogham-Schrift der heidnischen Religionsauffassung zuzuordnen ist~\cite{ogham-heidnisch1,ogham-heidnisch2}. Obwohl Namensnennungen mit dem Titel Priester gefunden wurden~\cite[S. 36]{düwel}, ist die Religionspraxis der Kelten weitgehend unklar. Vermutlich dürfte es sich um eine schwach ausgeprägte Mischung verschiedener Religionen handeln. So wurden einige Götter der römischen Theologie entlehnt~\cite{ogham-religion} (vergleiche Teutates / Mercurius, Cernunnos / Jupiter, Grannus / Apollo und Lenus / Mars). Ursache für die Unklarheiten ergeben sich vor allem daraus, dass die religiöse Lehre der Kelten durch mündliche Übertragung und nicht schriftlich erfolgt ist.
+Weiters bleibt fraglich ob die Ogham-Schrift der heidnischen Religionsauffassung zuzuordnen ist~\cite{ogham-heidnisch1,ogham-heidnisch2}. Obwohl Namensnennungen mit dem Titel Priester gefunden wurden~\cite[S. 36]{düwel}, ist die Religionspraxis der Kelten weitgehend unklar. Vermutlich dürfte es sich um eine schwach ausgeprägte Mischung verschiedener Religionen handeln. So wurden einige Götter der römischen Theologie entlehnt (vergleiche Teutates / Mercurius, Cernunnos / Jupiter, Grannus / Apollo und Lenus / Mars~\cite{ogham-religion}). Ursache für die Unklarheiten ergeben sich vor allem daraus, dass die religiöse Lehre der Kelten durch mündliche Übertragung und nicht schriftlich erfolgt ist.
 
 Das TITUS-Projekt~\cite{ogham-titus} (\glqq Thesaurus Indogermanischer Text- und Sprachmaterialien\grqq, 1996--2001) beinhaltet eine große Sammlung von Dokumenten indogermanischer Kultur. 79~Ogham-Inschriften sind archiviert, klassifiziert und entziffert vorzufinden.
 
@@ -392,9 +396,11 @@ Das TITUS-Projekt~\cite{ogham-titus} (\glqq Thesaurus Indogermanischer Text- und
 
 \subsection{Die 29 Zeichen der Oghamschrift}
 %
-In Abbildung~\ref{fig:ogham-chars} sind alle Zeichen der Oghamschrift aufgelistet. Die Zeichen wurden entlang der Kante der Steine notiert und die Schreibrichtung verlief dabei von unten nach oben. Falls der Platz nicht ausreichte, wurde in Spalten von links nach rechts fortgesetzt. Alle Zeichen basieren auf Namen von Baumarten und man kann eine Klassifikation vornehmen. Die ersten 20 Zeichen besitzen eine auffällige Struktur: In einem System von $4\times 5$ Zeichen wird mit Hilfe von Stäbchen von 1 bis 20 gezählt. Dieses System (bzw. deren Basis 20) ist auf die Zählung von Waren und Gütern im Handel zurückzuführen. Folglich wird Ogham nicht als eigenständiges Alphabet betrachtet. Es handelt sich um eine andere Kodierungsform\footnote{Eine Kodierungsform, welche ihre Zeichen einer Zählweise entlehnt.} einer gebräulichen Sprache der damaligen Zeit wie Griechisch oder Latein. 
+In Abbildung~\ref{fig:ogham-chars} sind alle Zeichen der Oghamschrift aufgelistet. Die Zeichen wurden entlang der Kante der Steine notiert und die Schreibrichtung verlief dabei von unten nach oben. Falls der Platz nicht ausreichte, wurde in Spalten von links nach rechts fortgesetzt. Alle Zeichen basieren auf Namen von Baumarten und man kann eine Klassifikation vornehmen. Die ersten 20 Zeichen besitzen eine auffällige Struktur: In einem System von $4\times 5$ Zeichen wird mit Hilfe von Stäbchen von 1 bis 20 gezählt. Dieses System (bzw. deren Basis 20) ist auf die Zählung von Waren und Gütern im Handel zurückzuführen. Folglich wird Ogham nicht als eigenständiges Alphabet betrachtet. Es handelt sich um eine Kodierungsform einer gebräulichen Sprache der damaligen Zeit wie Griechisch oder Latein in einem Zählsystem.
 
-Illustriert werden kann dies anhand von Kerbholzfunden~\ref{fig:tally-stick}. Dabei werden Kerben in einem Kerbholz verwendet, um zu zählen. Der gespreizte Abstand zwischen dem Zeigefinger und dem Daumen dient dabei als Arbeitsbreite. Kerben im Abstand der Breite einer Handfläche repräsentieren 1000~Pfund. Eine Daumenbreite wird für 100~Pfund verwendet und die Breite des kleinen Fingers für 20~Pfund. Ein aufgequollenes Gerstenkorn notiert eine einzelne Geldeinheit. Man beachte die Definition von 20~Pfund und die fehlende Definition für 10~Pfund; das heutig übliche Zählsystem im germanischen Sprachraum basierend auf den 10~Fingern einer Hand. Um die Schuld oder den Warenaustausch nachweisbar zu halten, wird das Kerbholz in zwei Teile gebrochen und das \glqq Dokument\grqq{} an beide Parteien verteilt.
+Illustriert werden kann dies anhand von Kerbholzfunden (siehe Abbildung~\ref{fig:tally-stick}). Dabei werden Kerben in einem Kerbholz verwendet, um zu zählen. Der gespreizte Abstand zwischen dem Zeigefinger und dem Daumen dient dabei als Arbeitsbreite. Kerben im Abstand der Breite einer Handfläche repräsentieren 1000~Pfund. Eine Daumenbreite wird für 100~Pfund verwendet und die Breite des kleinen Fingers für 20~Pfund. Ein aufgequollenes Gerstenkorn notiert eine einzelne Geldeinheit. Man beachte die Definition von 20~Pfund und die fehlende Definition für 10~Pfund. Das Kerbholz wurde in zwei Teile gebrochen, um die Schuld (oder den Warenaustausch) nachweisbar zu halten und das \glqq Dokument\grqq{} wurde an beide Parteien verteilt.
+
+Die Basis~20 steht dem heutig üblichen Zählsystem im germanischen Sprachraum gegenüber, welches - basierend auf den 10~Fingern einer Hand - die Basis~10 verwendet. Man findet heute noch Relikte der Basis 20 in indogermanischen Sprachen. So werden noch eigene Namen für die Zahlen von 11 bis 19 verwendet, obwohl diese Zahlen als Kombination von \enquote{zehn} und den Zahlen 0--9 ausgesprochen werden könnten. 
 
 \begin{figure}[t]
   \begin{center}
